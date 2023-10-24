@@ -9,8 +9,6 @@ This system saves the precious time of students during hostel attendance by tran
 
 All students have to do is scan a QR code on a scanner. Attendance is recorded without the student having to present themselves physically before the Hostel Superintendent.
 
-![CODE](https://assets.devfolio.co/hackathons/3d1b5fae809c4ceabb8a135b1254270a/projects/9e516d5e47494276a3a2802ceeeaa306/dc21ff9e-c86e-492e-ae3c-1369b404bf86.png)
-
 ## Benefits
 
 This system provides a conducive environment for disabled and medically vulnerable students.
